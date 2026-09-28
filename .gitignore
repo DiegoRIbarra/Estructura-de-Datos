@@ -1,0 +1,18 @@
+actividad-1b-vectores-paralelos-DiegoRIbarra/
+actividad-2b-vectoresymatrices-DiegoRIbarra/
+actividad-4b-unidad-1-DiegoRIbarra/
+actividad-cont-1b-vectores-paralelos-DiegoRIbarra/
+actividad-cont-2b-vectoresymatrices-DiegoRIbarra/
+ds-actividad-3b-matricesygenericos-DiegoRIbarra/
+ds-actividad-5b-unidad-1-DiegoRIbarra/
+ds-u2-actividad-1-listasenlazadassimples-DiegoRIbarra/
+ds-unidad-2-actividad-2-listasenlazadas-DiegoRIbarra/
+
+# Archivos generados
+*.exe
+*.pyd
+*.dll
+__pycache__/
+build/
+node_modules/
+.venv/
